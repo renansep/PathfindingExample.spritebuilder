@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EBB44074-AB35-4CB7-B84A-10D26C0DF3BC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PathfindingExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>720F805F-F24B-464E-B60D-D2174018595F</key>
+		<string>https://github.com/renansep/PathfindingExample.spritebuilder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PathfindingExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>720F805F-F24B-464E-B60D-D2174018595F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/renansep/PathfindingExample.spritebuilder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>720F805F-F24B-464E-B60D-D2174018595F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>720F805F-F24B-464E-B60D-D2174018595F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PathfindingExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -7,20 +7,11 @@
 //
 
 #import "CCNode.h"
-@class Cell;
+@class MyLayer;
 
 @interface MainScene : CCNode
 {
-    NSMutableArray *cells;
+    MyLayer *layer;
 }
-
-@property NSMutableArray *cells;
-
-- (void)selectedAgent:(id)sender;
-- (void)selectedBarrier:(id)sender;
-- (void)selectedDestiny:(id)sender;
-- (void)clear:(id)sender;
-- (void)nextIteration:(id)sender;
-- (void)animate:(id)sender;
 
 @end
